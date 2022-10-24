@@ -6,8 +6,7 @@ Fala galera, beleza?
 # - Cama de gato para o futuro
 ![image](https://user-images.githubusercontent.com/116580981/197622076-d73fc2de-848a-4310-9b54-090c03edb23e.png)
 # - Businees Model Canvas
-![image](https://user-images.githubusercontent.com/116580981/197644043-4ef2b18f-8803-4600-8eba-d65344d4939d.png)
-
+![image](https://user-images.githubusercontent.com/116580981/197644490-655b3d43-6458-46aa-8ade-3d7401ea009f.png)
 # - Link do miro para a visualização da Cama de Gato e BMC
 https://miro.com/welcomeonboard/QlQyMndEdXRaTDNXVWlGYW14TDZ0b0x0djJYSDlobTh3aXFqMmxET3diN2JWTkRkSkd2Zmd6Uk9tVHlpdHV2RXwzMDc0NDU3MzU1ODY5MzA3ODI4fDI=?share_link_id=843000212773
 # - Vídeo sobre o projeto
