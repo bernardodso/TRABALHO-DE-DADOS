@@ -1,4 +1,4 @@
-# Evolução do futebol do Clube Vasco da Gama e expectativas para o futuro
+# Evolução do extracampo do Clube Vasco da Gama e expectativas para o futuro
 # - Introdução
 Fala galera, beleza?
     Esse é uma parte do trabalho final da disciplina de Data Science aqui do IDP, nessa parte temos que escolher um hobby e dentro desse hobby um tema.
