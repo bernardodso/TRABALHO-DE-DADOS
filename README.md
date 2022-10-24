@@ -8,7 +8,7 @@ Fala galera, beleza?
 # - Businees Model Canvas
 ![image](https://user-images.githubusercontent.com/116580981/197644490-655b3d43-6458-46aa-8ade-3d7401ea009f.png)
 # - Link do miro para a visualização da Cama de Gato e BMC
-https://miro.com/welcomeonboard/QlQyMndEdXRaTDNXVWlGYW14TDZ0b0x0djJYSDlobTh3aXFqMmxET3diN2JWTkRkSkd2Zmd6Uk9tVHlpdHV2RXwzMDc0NDU3MzU1ODY5MzA3ODI4fDI=?share_link_id=843000212773
+- https://miro.com/welcomeonboard/QlQyMndEdXRaTDNXVWlGYW14TDZ0b0x0djJYSDlobTh3aXFqMmxET3diN2JWTkRkSkd2Zmd6Uk9tVHlpdHV2RXwzMDc0NDU3MzU1ODY5MzA3ODI4fDI=?share_link_id=843000212773
 # - Vídeo sobre o projeto
 - https://youtu.be/6XbedicpwS8
 # - Fonte de dados: 
