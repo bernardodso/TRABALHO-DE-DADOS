@@ -15,3 +15,7 @@ https://miro.com/welcomeonboard/QlQyMndEdXRaTDNXVWlGYW14TDZ0b0x0djJYSDlobTh3aXFq
 - https://www.lance.com.br/vasco/socios-do-vasco-aprovam-venda-da-saf-a-777-partners.html
 - https://www.correiobraziliense.com.br/esportes/2022/06/5015269-ranking-das-torcidas-atesta-flamengo-mais-querido-gremio-supera-vasco.html
 - https://pt.wikipedia.org/wiki/T%C3%ADtulos_do_Club_de_Regatas_Vasco_da_Gama
+- https://brasil.elpais.com/brasil/2019/04/05/deportes/1554498170_792322.html
+- https://ge.globo.com/blogs/blog-do-rodrigo-capelo/post/2021/07/22/as-financas-do-vasco-em-2020-atormentado-por-dividas-e-guerra-politica-o-gigante-ainda-gasta-mal-o-pouco-dinheiro-que-arrecada.ghtml
+- https://ge.globo.com/futebol/times/vasco/noticia/2022/09/02/vasco-e-777-finalizam-nesta-sexta-venda-de-70percent-da-saf-por-r-120-milhoes.ghtml
+- https://ge.globo.com/futebol/times/vasco/noticia/eleicao-no-vasco-suspensao-do-pleito-pela-justica-causa-confusao-e-brigas-ao-redor-de-sao-januario.ghtml
