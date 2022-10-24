@@ -10,6 +10,7 @@ Fala galera, beleza?
 # - Link do miro para a visualização da Cama de Gato e BMC
 https://miro.com/welcomeonboard/QlQyMndEdXRaTDNXVWlGYW14TDZ0b0x0djJYSDlobTh3aXFqMmxET3diN2JWTkRkSkd2Zmd6Uk9tVHlpdHV2RXwzMDc0NDU3MzU1ODY5MzA3ODI4fDI=?share_link_id=843000212773
 # - Vídeo sobre o projeto
+- https://youtu.be/6XbedicpwS8
 # - Fonte de dados: 
 - https://oglobo.globo.com/esportes/futebol/vasco/noticia/2022/10/vasco-acerta-contratacao-de-mais-dois-diretores-e-busca-executivo-do-flamengo-para-o-comercial.ghtml
 - https://www.lance.com.br/vasco/socios-do-vasco-aprovam-venda-da-saf-a-777-partners.html
